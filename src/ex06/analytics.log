@@ -1,0 +1,55 @@
+2026-03-24 20:52:21 Research class initialized with path: data.csv
+2026-03-24 20:52:21 Reading file: data.csv
+2026-03-24 20:52:21 Research class initialized with path: data.csv
+2026-03-24 20:52:21 Sending Telegram message: The report hasn't been created due to an error
+2026-03-24 20:52:21 Starting new HTTPS connection (1): api.telegram.org:443
+2026-03-24 20:52:22 https://api.telegram.org:443 "POST /bot8286917069:AAGlGISWADbvNyjCPjpKqk3OM5iNSWrnmGw/sendMessage HTTP/1.1" 200 330
+2026-03-24 20:52:22 Telegram response: 200
+2026-03-24 20:52:53 Research class initialized with path: data.csv
+2026-03-24 20:52:53 Reading file: data.csv
+2026-03-24 20:52:53 Predicting random observations
+2026-03-24 20:52:53 Research class initialized with path: data.csv
+2026-03-24 20:52:53 Sending Telegram message: The report hasn't been created due to an error
+2026-03-24 20:52:53 Starting new HTTPS connection (1): api.telegram.org:443
+2026-03-24 20:52:53 https://api.telegram.org:443 "POST /bot8286917069:AAGlGISWADbvNyjCPjpKqk3OM5iNSWrnmGw/sendMessage HTTP/1.1" 200 330
+2026-03-24 20:52:53 Telegram response: 200
+2026-03-24 20:54:24 Research class initialized with path: data.csv
+2026-03-24 20:54:24 Reading file: data.csv
+2026-03-24 20:54:24 Predicting random observations
+2026-03-24 20:54:24 Saving file: report.txt
+2026-03-24 20:54:24 Sending Telegram message: The report has been succesfully created
+2026-03-24 20:54:24 Starting new HTTPS connection (1): api.telegram.org:443
+2026-03-24 20:54:24 https://api.telegram.org:443 "POST /bot8286917069:AAGlGISWADbvNyjCPjpKqk3OM5iNSWrnmGw/sendMessage HTTP/1.1" 200 323
+2026-03-24 20:54:24 Telegram response: 200
+2026-03-24 20:54:33 Research class initialized with path: data.csv
+2026-03-24 20:54:33 Reading file: data.csv
+2026-03-24 20:54:33 Predicting random observations
+2026-03-24 20:54:33 Saving file: report.txt
+2026-03-24 20:54:33 Sending Telegram message: The report has been succesfully created
+2026-03-24 20:54:33 Starting new HTTPS connection (1): api.telegram.org:443
+2026-03-24 20:54:34 https://api.telegram.org:443 "POST /bot8286917069:AAGlGISWADbvNyjCPjpKqk3OM5iNSWrnmGw/sendMessage HTTP/1.1" 200 323
+2026-03-24 20:54:34 Telegram response: 200
+2026-03-24 21:01:56 Research class initialized with path: data.csv
+2026-03-24 21:01:56 Reading file: data.csv
+2026-03-24 21:01:56 Predicting random observations
+2026-03-24 21:01:56 Saving file: report.txt
+2026-03-24 21:01:56 Sending Telegram message: The report has been succesfully created
+2026-03-24 21:01:57 Telegram message sent succesfully
+2026-03-24 21:07:49 Research class initialized with path: data.csv
+2026-03-24 21:07:49 Reading file: data.csv
+2026-03-24 21:07:49 Calculations class initialized
+2026-03-24 21:07:49 Calculating the counts of heads and tails
+2026-03-24 21:07:49 Calculating the fractions
+2026-03-24 21:07:49 Predicting random observations
+2026-03-24 21:07:49 Saving file: report.txt
+2026-03-24 21:07:49 Sending Telegram message: The report has been succesfully created
+2026-03-24 21:07:49 Telegram message sent succesfully
+2026-03-24 21:26:26 Research class initialized with path: data.csv
+2026-03-24 21:26:26 Reading file: data.csv
+2026-03-24 21:26:26 Calculations class initialized
+2026-03-24 21:26:26 Calculating the counts of heads and tails
+2026-03-24 21:26:26 Calculating the fractions
+2026-03-24 21:26:26 Predicting random observations
+2026-03-24 21:26:26 Saving file: report.txt
+2026-03-24 21:26:26 Sending Telegram message: The report has been succesfully created
+2026-03-24 21:26:26 Telegram message sent succesfully

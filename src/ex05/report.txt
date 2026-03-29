@@ -1,0 +1,5 @@
+We mad 11 observations by tossing a coin:
+5 were heads and 6 were tails.
+The probabilities are 45.45% and 54.54%, respectively.
+Our forecast is that the next 3 observations will be: 
+1 head and 2 tails.
